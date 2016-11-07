@@ -7,4 +7,10 @@ This is a repository for a group of friends, working on small(-ish) projects tog
 Felsi, Naryu, Sara
 
 == Projects
-tba
+   * tba
+
+=== TODO
+   * add .gitignore
+   * add .licence
+   * add other contributors ;)
+   * and start the fun!
