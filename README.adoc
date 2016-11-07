@@ -1,12 +1,12 @@
 = ChickenVenezia
 
 == Short Info
-This is a repository for a group of friends, working on small(-ish) projects together.
+This is a repository for a group of friends, working on a small(-ish) game together. This is mainly for ourself and all for fun! :)
 
 == Contributors
 Felsi, Naryu, Sara
 
-== Projects
+== Project
    * tba
 
 === TODO

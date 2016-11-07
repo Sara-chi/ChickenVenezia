@@ -1,0 +1,1 @@
+This folder will contain all artwork and designs created for our game, including .psd-files and discarded designs.
