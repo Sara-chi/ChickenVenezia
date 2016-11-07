@@ -1,0 +1,10 @@
+= ChickenVenezia
+
+== Short Info
+This is a repository for a group of friends, working on small(-ish) projects together.
+
+== Contributors
+Felsi, Naryu, Sara
+
+== Projects
+tba
